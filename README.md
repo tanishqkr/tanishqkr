@@ -4,7 +4,7 @@
 
 Building at the intersection of data, systems and aerospace
 
-<img src="https://komarev.com/ghpvc/?username=tanishqkr&label=Profile+Views&color=0e75b6&style=flat" alt="visitor counter" />
+<!-- <img src="https://komarev.com/ghpvc/?username=tanishqkr&label=Profile+Views&color=0e75b6&style=flat" alt="visitor counter" /> -->
 
 </div>
 
@@ -66,16 +66,3 @@ Machine Learning I — Columbia Plus (2026) · Amazon ML Summer School (2025) ·
 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Portfolio](https://YOUR_PORTFOLIO_URL) · [Email](mailto:tanishporwal2005@gmail.com)
 
 ---
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishqkr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkr&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanishqkr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
