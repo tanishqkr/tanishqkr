@@ -10,140 +10,62 @@ Building at the intersection of data, systems and aerospace
 
 ---
 
-## 🧑‍💻 About Me
+### About
 
-```python
-tanish = {
-    "location":     "Indore, India 🇮🇳",
-    "education":    "B.Tech CS",
-    "currently":    "Writing an ML research paper on early-onset pediatric sepsis prediction",
-    "goal":         "Aerospace Masters — bridging ML with space systems 🛰️",
-    "fun_fact":     "Fixed a real NanoSatellite telemetry bug before touching grad school apps 😅",
-}
-```
+CS undergrad from Indore shipping ML systems and full-stack products. Interned, built real things, and currently writing a research paper on pediatric sepsis prediction — on the way to an aerospace masters.
 
-I'm a CS undergrad who's shipped production systems, trained CNNs, and somehow ended up writing a medical ML paper on the road to aerospace. I love building things that actually work — from ERP platforms serving 500+ clients to biometric recognition systems with 90% accuracy.
+I like working across domains. Satellites, clinical ML, and production backends are all fair game.
 
 ---
 
-## 📬 Let's Connect
+### Work
 
-<div align="center">
+**Software Engineer (Freelance)** — built and shipped a MERN-stack ERP platform serving 500+ clients, handling freight tracking across 1,000+ SKUs with atomic stock updates and RBAC.
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square)](https://YOUR_PORTFOLIO_URL)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/@_Email-D14836?style=flat-square)](mailto:tanishporwal2005@gmail.com)
+**Vyska Technologies** — built an HRMS platform, designed a JWT-based RBAC system, cut roster API latency by 67%, and built backend workflows for their LMS.
 
-</div>
+**Servocontrols & Hydraulics India** — diagnosed a telemetry bug in the EyeSat NanoSatellite dashboard and refactored the output pipeline.
 
 ---
 
-## 🛠️ Tech Stack
+### Projects
 
-**Languages**
+**GeoScan** — CNN-based satellite image classifier across 7 land-use classes. 91% validation accuracy. Quantized via TFLite (155MB → 13MB) and deployed live on Vercel.
 
-![Python](https://img.shields.io/badge/●_Python-3776AB?style=flat-square&logoColor=white)
-![JavaScript](https://img.shields.io/badge/●_JavaScript-F7DF1E?style=flat-square&logoColor=black)
-![TypeScript](https://img.shields.io/badge/●_TypeScript-007ACC?style=flat-square&logoColor=white)
-![Java](https://img.shields.io/badge/●_Java-ED8B00?style=flat-square&logoColor=white)
-![C++](https://img.shields.io/badge/●_C++-00599C?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/●_SQL-4479A1?style=flat-square&logoColor=white)
+**Iris Biometric Recognition System** — embedding-based identity recognition on the IITD database using a custom IrisEncoder CNN. 90% Top-1 accuracy with full Daugman preprocessing pipeline.
 
-**ML / AI**
-
-![PyTorch](https://img.shields.io/badge/●_PyTorch-EE4C2C?style=flat-square&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/●_TensorFlow-FF6F00?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/●_HuggingFace-FFD21E?style=flat-square&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/●_scikit--learn-F7931E?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/●_OpenCV-27338e?style=flat-square&logoColor=white)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/●_React-20232A?style=flat-square&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/●_Node.js-43853D?style=flat-square&logoColor=white)
-![Express](https://img.shields.io/badge/●_Express-000000?style=flat-square&logoColor=white)
-![MongoDB](https://img.shields.io/badge/●_MongoDB-4EA94B?style=flat-square&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/●_PostgreSQL-316192?style=flat-square&logoColor=white)
+**Large-Scale Sentiment Analysis with BERT** — benchmarked fine-tuned DistilBERT vs a custom BiLSTM on 16K Amazon reviews. Deployed via Gradio with FP16 inference.
 
 ---
 
-## 🚀 Featured Projects
+### Research
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ GeoScan
-Satellite image classifier across 7 land-use classes. Reduced model size by ~92% via TFLite quantization for live deployment.
-
-![CNN](https://img.shields.io/badge/●_CNN-3776AB?style=flat-square&logoColor=white)
-![TFLite](https://img.shields.io/badge/●_TFLite-FF6F00?style=flat-square&logoColor=white)
-![Flask](https://img.shields.io/badge/●_Flask-000000?style=flat-square&logoColor=white)
-
-**91% val accuracy** · [View →](https://vercel.com/tanishqkrs-projects/satellite-image-classifier)
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ Iris Biometric System
-Embedding-based identity recognition on IITD database (218 subjects). Full Daugman preprocessing pipeline.
-
-![PyTorch](https://img.shields.io/badge/●_PyTorch-EE4C2C?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/●_OpenCV-27338e?style=flat-square&logoColor=white)
-
-**90% Top-1 accuracy** · [View →](https://github.com/tanishqkr/Embedding-Based-Iris-Recognition)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 BERT Sentiment Analysis
-DistilBERT vs BiLSTM benchmark on 16K Amazon reviews. FP16 inference via Gradio live demo.
-
-![HuggingFace](https://img.shields.io/badge/●_HuggingFace-FFD21E?style=flat-square&logoColor=black)
-![PyTorch](https://img.shields.io/badge/●_PyTorch-EE4C2C?style=flat-square&logoColor=white)
-
-**Live demo** · [View →](https://github.com/tanishqkr/large-scale-sentiment-analysis-bert)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 ERP Platform
-Full MERN-stack ERP serving 500+ clients. Automated freight tracking across 1,000+ SKUs.
-
-![React](https://img.shields.io/badge/●_React-20232A?style=flat-square&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/●_Node.js-43853D?style=flat-square&logoColor=white)
-![MongoDB](https://img.shields.io/badge/●_MongoDB-4EA94B?style=flat-square&logoColor=white)
-
-**Production** · Freelance
-
-</td>
-</tr>
-</table>
-</div>
+🧬 **Early-Onset Pediatric Sepsis Prediction using Machine Learning** *(in progress)*
+Applying ML to clinical time-series data for early warning systems in pediatric ICUs.
 
 ---
 
-## 📄 Research
+### Stack
 
-> 🧬 **Early-Onset Pediatric Sepsis Prediction using Machine Learning**
-> *Work in progress — applying ML to clinical time-series data for early warning systems in pediatric ICUs.*
-> *(Yes, I'm an aerospace hopeful writing a medical ML paper. Curiosity doesn't care about domain boundaries.)*
+Python · JavaScript · TypeScript · Java · C++ · SQL
 
----
+PyTorch · TensorFlow · HuggingFace · scikit-learn · OpenCV · Pandas · NumPy
 
-## 🎓 Certifications
-
-- 🎓 Machine Learning I — Columbia Plus (2026)
-- ☁️ Gen AI Academy — Google Cloud (2025)
-- 🏆 Amazon ML Summer School (2025)
-- 🔷 Oracle Generative AI Professional Certificate (2025)
+React · Node.js · Express · MongoDB · PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
+### Certifications
+
+Machine Learning I — Columbia Plus (2026) · Amazon ML Summer School (2025) · Gen AI Academy — Google Cloud (2025) · Oracle Generative AI Professional (2025)
+
+---
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Portfolio](https://YOUR_PORTFOLIO_URL) · [Email](mailto:tanishporwal2005@gmail.com)
+
+---
 
 <div align="center">
 
@@ -156,10 +78,4 @@ Full MERN-stack ERP serving 500+ clients. Automated freight tracking across 1,00
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanishqkr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
----
-
-<div align="center">
-  <i>"I don't stay in one lane — satellites, sepsis models, and full-stack systems are all fair game."</i>
 </div>
