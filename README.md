@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanish+Porwal+%F0%9F%91%8B;ML+Engineer+%7C+Full+Stack+Dev;Building+at+the+intersection+of+data+%26+systems;Aerospace+%26+AI+enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanish+Porwal+%F0%9F%91%8B;ML+Engineer+%7C+Full+Stack+Dev)](https://git.io/typing-svg)
+
+Building at the intersection of data, systems and aerospace
 
 <img src="https://komarev.com/ghpvc/?username=tanishqkr&label=Profile+Views&color=0e75b6&style=flat" alt="visitor counter" />
 
@@ -13,7 +15,7 @@
 ```python
 tanish = {
     "location":     "Indore, India 🇮🇳",
-    "education":    "B.Tech CS @ NMIMS Indore (2027)",
+    "education":    "B.Tech CS",
     "currently":    "Writing an ML research paper on early-onset pediatric sepsis prediction",
     "goal":         "Aerospace Masters — bridging ML with space systems 🛰️",
     "fun_fact":     "Fixed a real NanoSatellite telemetry bug before touching grad school apps 😅",
@@ -79,7 +81,7 @@ Satellite image classifier across 7 land-use classes. Reduced model size by ~92%
 ![TFLite](https://img.shields.io/badge/●_TFLite-FF6F00?style=flat-square&logoColor=white)
 ![Flask](https://img.shields.io/badge/●_Flask-000000?style=flat-square&logoColor=white)
 
-**91% val accuracy** · [View →](https://github.com/tanishqkr)
+**91% val accuracy** · [View →](https://vercel.com/tanishqkrs-projects/satellite-image-classifier)
 
 </td>
 <td width="50%" valign="top">
@@ -90,7 +92,7 @@ Embedding-based identity recognition on IITD database (218 subjects). Full Daugm
 ![PyTorch](https://img.shields.io/badge/●_PyTorch-EE4C2C?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/●_OpenCV-27338e?style=flat-square&logoColor=white)
 
-**90% Top-1 accuracy** · [View →](https://github.com/tanishqkr)
+**90% Top-1 accuracy** · [View →](https://github.com/tanishqkr/Embedding-Based-Iris-Recognition)
 
 </td>
 </tr>
@@ -103,7 +105,7 @@ DistilBERT vs BiLSTM benchmark on 16K Amazon reviews. FP16 inference via Gradio 
 ![HuggingFace](https://img.shields.io/badge/●_HuggingFace-FFD21E?style=flat-square&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/●_PyTorch-EE4C2C?style=flat-square&logoColor=white)
 
-**Live demo** · [View →](https://github.com/tanishqkr)
+**Live demo** · [View →](https://github.com/tanishqkr/large-scale-sentiment-analysis-bert)
 
 </td>
 <td width="50%" valign="top">
