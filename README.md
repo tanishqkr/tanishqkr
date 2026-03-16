@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanish+Porwal+%F0%9F%91%8B;ML+Engineer+%7C+Full+Stack+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF7722&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanish+Porwal+%F0%9F%91%8B;ML+Engineer+%7C+Full+Stack+Dev)](https://git.io/typing-svg)
 
 Building at the intersection of data, systems and aerospace
 
