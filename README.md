@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanish;I+like+building+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanish;I+like+building+things)](https://git.io/typing-svg)
 
 Computer Engineering student exploring AI, systems, and aerospace.
 
@@ -10,52 +10,27 @@ Computer Engineering student exploring AI, systems, and aerospace.
 
 ### About
 
-I'm a Computer Engineering student interested in building things that sit closer to the real world — intelligent systems, robotics, spacecraft, UAVs, and everything in between.
+I'm interested in building things that sit closer to the real world — intelligent systems, robotics, spacecraft, UAVs, and everything in between.
 
-I've worked across software and machine learning, but I'm increasingly interested in the engineering behind physical systems and want to move deeper into aerospace.
+My work has mostly been in machine learning and software, but I'm increasingly interested in the engineering behind physical systems and want to move deeper into aerospace.
 
-Currently working on two research projects:
+I've worked on research spanning **planetary terrain analysis and safety-critical ML**:
 
-- 🚀 **Mars Terrain Risk Analysis** — uncertainty-aware terrain traversability for Mars rovers.
-- 🧬 **Pediatric Sepsis Prediction** — machine learning for early prediction in pediatric ICUs.
+🚀 **MTRA** — uncertainty-aware terrain traversability for Mars rovers. Manuscript in preparation, targeting **IAC 2027**.
 
-I'm looking to get more hands-on with aerospace and autonomous systems, particularly with teams and projects in **Bangalore**.
+🧬 **Pediatric Sepsis Prediction** — machine learning and explainability for early prediction in pediatric ICUs. **Manuscript submitted.**
 
----
+I've also built a **spacecraft attitude-estimation system** and an interactive 3D visualization of my Mars research.
 
-### Research
-
-**MTRA — Multi-Mission Traversability Regression for Mars Rovers**
-
-Research on continuous terrain traversability estimation and uncertainty for autonomous planetary navigation.
-
-**Early Prediction of Pediatric Sepsis**
-
-Research on machine learning and explainability for early sepsis prediction using pediatric ICU data.
-
----
-
-### Other things I've built
-
-**Spacecraft Attitude Estimation**
-
-A multiplicative-error UKF for spacecraft attitude and gyroscope-bias estimation, with fault detection and Monte Carlo validation.
-
-**MTRAF**
-
-An interactive 3D visualization of my Mars terrain research built with Three.js.
-
-**Production Systems**
-
-I've also built and shipped real-world software systems, including an ERP used by 500+ clients.
+I'm looking to get more hands-on with **aerospace, UAVs, robotics, and autonomous systems**, particularly with teams and projects in **Bangalore**.
 
 ---
 
 ### Currently
 
-Trying to get closer to **aerospace, UAVs, robotics, and physical systems**.
+Building, researching, learning.
 
-If you're building something interesting, I'd probably want to hear about it.
+If you're working on something interesting, I'd probably want to hear about it.
 
 ---
 
